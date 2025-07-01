@@ -38,7 +38,7 @@ export default function Home() {
         </nav>
 
         {/* Hero Section */}
-        <div className="max-w-4xl mb-12">
+        <div className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
             Best 12 Crypto Presales to Invest in October 2025 – Top Token Presales Revealed
           </h1>
@@ -161,9 +161,14 @@ export default function Home() {
                     <span className="text-white">+1 more</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://solaxy.io/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   ACCESS SOLAXY PRESALE
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -207,9 +212,14 @@ export default function Home() {
                     <span className="text-orange-400">Early Bird Round</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://snortertoken.com/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   ACCESS SNORTER BOT PRESALE
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -257,9 +267,14 @@ export default function Home() {
                     <span className="text-white">+1 more</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://btcbull.io/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   VISIT BTC BULL PRESALE
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -303,9 +318,14 @@ export default function Home() {
                     <span className="text-orange-400">Phase 1 Live</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://mindofpepe.com/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   ACCESS MIND PRESALE
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -353,9 +373,14 @@ export default function Home() {
                     <span className="text-white">+1 more</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://bestwallettoken.com/en"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   GET $BEST TOKENS
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -403,9 +428,14 @@ export default function Home() {
                     <span className="text-white">+5 more</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://spacepay.co.uk/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   INVEST IN SPACEPAY
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -453,9 +483,14 @@ export default function Home() {
                     <span className="text-white">+2 more</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://subbdtoken.com/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   EXPLORE SUBBD PRESALE
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -503,9 +538,14 @@ export default function Home() {
                     <span className="text-white">+1 more</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://bitcoinhyper.com/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   GET $HYPER TOKENS TODAY
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -549,9 +589,14 @@ export default function Home() {
                     <span className="text-orange-400">Whitelist Registration Open</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://sale.aicogni.io/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   EXPLORE COGNIAI
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -595,9 +640,14 @@ export default function Home() {
                     <span className="text-orange-400">Recently Launched - High Demand</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://unomeme.com/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   JOIN UNOM PRESALE NOW
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -641,9 +691,14 @@ export default function Home() {
                     <span className="text-orange-400">Over $129k Raised - Phase 1</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://influencerpepe.com/en"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   GET $INPEPE TOKENS
-                </Button>
+                </a>
               </CardContent>
             </Card>
 
@@ -688,9 +743,14 @@ export default function Home() {
                     <span className="text-orange-400">Private Sale Concluded, Public Whitelist Open</span>
                   </div>
                 </div>
-                <Button className="presale-button w-full">
+                <a
+                  href="https://www.zenithchain.co/"
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className="presale-button w-full inline-block text-center"
+                >
                   LEARN ABOUT ZENITHCHAIN
-                </Button>
+                </a>
               </CardContent>
             </Card>
           </div>
